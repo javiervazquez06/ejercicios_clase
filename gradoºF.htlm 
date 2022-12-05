@@ -1,0 +1,5 @@
+<html>
+var grado=0;
+
+grado=prompt("Dime un grado")
+
